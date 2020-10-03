@@ -6,10 +6,10 @@ void main_avg(void) {
   if(n == 3) {
     int x1, x2, x3;
     scanf("%d %d %d", &x1, &x2, &x3);
-    printf("%d\n", (x1+x2+x3) / 3);
+    printf("%0.3lf\n", 1.0 * (x1 + x2 + x3) / 3);
   } else {
     int x1, x2, x3, x4;
     scanf("%d %d %d %d", &x1, &x2, &x3, &x4);
-    printf("%d\n", (x1+x2+x3+x4) / 3);
+    printf("%0.3lf\n", 1.0 * (x1 + x2 + x3 + x4) / 4);
   }
 }
