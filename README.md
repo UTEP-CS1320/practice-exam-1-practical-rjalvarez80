@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3294161&assignment_repo_type=AssignmentRepo)
 # CS1320 - Practice Exam 1: Practical Part
 
 For this practice exam, there will be two problems that you have to solve. The first one involves finding and fixing the logical errors in existing code. The second involves coding an entire problem on your own.
